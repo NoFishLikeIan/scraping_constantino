@@ -46,4 +46,5 @@ cover/*
 MANIFEST
 
 # Per-project virtualenvs
-.venv*/
+.vent*/
+lib/
