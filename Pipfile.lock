@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6255fbf68e90cdef261cec4af9d6fe56652464b1e4d91c70ef09312dae647cac"
+            "sha256": "7e4ce64fe7b03f5a78b5d0a4775e72a7e8ff3a0bec49027499e33ea66aca902e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -61,6 +61,13 @@
             ],
             "index": "pypi",
             "version": "==2.20.0"
+        },
+        "spotipy": {
+            "hashes": [
+                "sha256:4b05da481b5c5dd4d1da8c0f0d13ca805dde037db648d12be866244b19501ed1"
+            ],
+            "index": "pypi",
+            "version": "==2.4.4"
         },
         "urllib3": {
             "hashes": [
