@@ -47,4 +47,7 @@ MANIFEST
 
 # Per-project virtualenvs
 .vent*/
+
+
 lib/
+.env
