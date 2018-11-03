@@ -51,3 +51,5 @@ MANIFEST
 
 lib/
 .env
+src/scraping_constantino/_generate_token.py
+src/scraping_constantino/.cache-andreatitton96@gmail.com
